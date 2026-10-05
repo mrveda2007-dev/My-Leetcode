@@ -14,4 +14,8 @@ li=[]
 for i in n :
     li.append(i)
 k=int(input("enter a value for k :"))
+<<<<<<< HEAD
 print(s.addToArrayForm(li,k))
+=======
+print(s.addToArrayForm(li,k))
+>>>>>>> b2f8eb56b1ecf1b40c218bbc4feacaf86a0963d9
